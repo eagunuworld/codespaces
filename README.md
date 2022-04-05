@@ -102,3 +102,4 @@ docker-compose up -d lb
 ```
 
 Replace the name of actual node with lb.  That should help you redo the node. 
+https://gist.github.com/initcron/083abc953efe3552464e28c8aa0c84a9
